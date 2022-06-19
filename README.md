@@ -1,1 +1,1 @@
-# Bella-Nessa-Django-Models
+# Bella-Nessa/Django-Models
